@@ -147,5 +147,5 @@ pnpm run coverage      # Generate coverage reports
 
 ## Code Review
 
-- When performing a code review, respond in Chinese.
+When performing a code review, respond in Chinese.
 
